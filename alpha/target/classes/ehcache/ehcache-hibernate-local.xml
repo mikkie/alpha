@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache updateCheck="false">
+
+	<diskStore path="java.io.tmpdir/hibernate/business" />
+
+	<!-- DefaultCache setting. -->
+	<defaultCache eternal="false" timeToIdleSeconds="300"
+		timeToLiveSeconds="600" overflowToDisk="true" />
+</ehcache>

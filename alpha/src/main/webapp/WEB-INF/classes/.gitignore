@@ -1,0 +1,8 @@
+/META-INF/
+/application.properties
+/applicationContext-schedule.xml
+/applicationContext-shiro.xml
+/applicationContext.xml
+/com/
+/ehcache/
+/log4j.properties
